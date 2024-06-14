@@ -14,7 +14,7 @@ function Home() {
             Welcome To My <strong>Portfolio</strong>
          </span>
           <div className="flex items-center">
-            <h1 className="text-4xl font-bold text-gray-800 pt-3 mt-3">Hi, I'm <strong>Manan Daxini</strong></h1>
+            <h1 className="text-4xl font-bold text-gray-800 pt-3 mt-3">Hi, I am <strong>Manan Daxini</strong></h1>
           </div>
           <div className="flex text-2xl md:text-4xl">
             <h1 className="text-gray-800"> <strong>A passionate</strong></h1>{" "}
@@ -67,7 +67,7 @@ function Home() {
           </div>
         </div>
         <div className="md:w-1/2 md:ml-52 md:mt-20 mt-8 order-1">
-          <img src="public/manan.jpg" className="rounded-full w-[470px] h-[460px]" alt="Manan Daxini" />
+          <img src="public\manan.jpg" className="rounded-full w-[470px] h-[460px]" alt="Manan Daxini" />
         </div>
       </div>
     </div>
