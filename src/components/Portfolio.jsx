@@ -39,7 +39,7 @@ const carditems = [
 
 function Portfolio() {
     return (
-        <div className="max-w-screen-xl mx-auto px-4 md:px-8 lg:px-20 mt-10">
+        <div name="Portfolio" className="max-w-screen-xl mx-auto px-4 md:px-8 lg:px-20 mt-10">
             <div className="text-center">
                 <h1 className="text-4xl font-extrabold mb-5">Portfolio</h1>
                 <span className="text-xl underline">Featured Projects</span>
