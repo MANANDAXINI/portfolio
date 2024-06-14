@@ -67,7 +67,7 @@ function Home() {
           </div>
         </div>
         <div className="md:w-1/2 md:ml-52 md:mt-20 mt-8 order-1">
-          <img src="public\manan.jpg" className="rounded-full w-[470px] h-[460px]" alt="Manan Daxini" />
+          <img src="manan.jpg" className="rounded-full w-[470px] h-[460px]" alt="Manan Daxini" />
         </div>
       </div>
     </div>
