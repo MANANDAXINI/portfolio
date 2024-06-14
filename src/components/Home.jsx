@@ -7,7 +7,7 @@ import { ReactTyped } from "react-typed";
 
 function Home() {
   return (
-    <div className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-20">
+    <div name="Home" className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-20">
       <div className="flex flex-col md:flex-row">
         <div className="md:w-1/2 md:mt-24 mt-12 md:order-1 order-2">
          <span>
