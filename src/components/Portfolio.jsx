@@ -58,9 +58,6 @@ function Portfolio() {
                             A Netflix clone with a similar interface and functionality, built using React and Firebase.
                         </p>
                         <div className="flex justify-center space-x-4">
-                            <button className="bg-purple-500 hover:bg-purple-600 text-white font-semibold px-6 py-2 rounded-full shadow-md transition duration-300 transform hover:scale-105">
-                                Video
-                            </button>
                             <a
                                 href={carditems[0].repoLink}
                                 target="_blank"
@@ -88,9 +85,6 @@ function Portfolio() {
                                 {name} project built using modern web technologies.
                             </p>
                             <div className="flex justify-center space-x-4">
-                                <button className="bg-purple-500 hover:bg-purple-600 text-white font-semibold px-6 py-2 rounded-full shadow-md transition duration-300 transform hover:scale-105">
-                                    Video
-                                </button>
                                 <a
                                     href={repoLink}
                                     target="_blank"

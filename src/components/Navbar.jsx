@@ -21,7 +21,7 @@ const Navbar = () => {
                     <div className="flex space-x-2">
                         <img src={photo2} className="h-16 w-16 rounded-full" alt="Profile" />
                         <h1 className="font-semibold text-xl cursor-pointer">
-                            Mana<span className="text-green-500 text-xl">n</span>
+                            Manan
                             <p className="text-sm">Web Developer</p>
                         </h1>
                     </div>

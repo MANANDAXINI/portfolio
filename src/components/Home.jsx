@@ -35,22 +35,22 @@ function Home() {
               <ul className="flex space-x-5 py-1">
                 <li>
                   <a href="https://twitter.com/daxini_manan?t=5mZELgT5f1VKEDT74XvzrA&s=08" target="_blank">
-                    <RiTwitterXLine className="text-2xl cursor-pointer" />
+                    <RiTwitterXLine className="text-2xl cursor-pointer hover:scale-110 hover:text-3xl duration-200" />
                   </a>
                 </li>
                 <li>
                   <a href="https://www.instagram.com/manan_daxini25/?hl=en" target="_blank">
-                    <FaInstagram className="text-2xl cursor-pointer" />
+                    <FaInstagram className="text-2xl cursor-pointer hover:scale-110 hover:text-3xl duration-200" />
                   </a>
                 </li>
                 <li>
                   <a href="https://www.linkedin.com/in/manan-daxini-180b69247/" target="_blank">
-                    <FaLinkedin className="text-2xl cursor-pointer" />
+                    <FaLinkedin className="text-2xl cursor-pointer hover:scale-110 hover:text-3xl duration-200" />
                   </a>
                 </li>
                 <li>
                   <a href="https://discord.com/channels/@me" target="_blank">
-                    <FaDiscord className="text-2xl cursor-pointer" />
+                    <FaDiscord className="text-2xl cursor-pointer hover:scale-110 hover:text-3xl duration-200" />
                   </a>
                 </li>
               </ul>
@@ -58,10 +58,10 @@ function Home() {
             <div>
               <h3 className="text-xl font-bold  mx-4 text-gray-700">Currently Working On</h3>
               <div className="flex space-x-5 mx-4 py-1">
-                <FaNodeJs className="text-2xl hover:scale-110 duration-200 rounded-full border-[2px]" />
-                <SiExpress className="text-2xl hover:scale-110 duration-200 rounded-full border-[2px]" />
-                <DiMongodb className="text-2xl hover:scale-110 duration-200 rounded-full border-[2px]" />
-                <SiOpencv className="text-2xl hover:scale-110 duration-200 rounded-full border-[2px]" />
+                <FaNodeJs className="text-2xl hover:scale-110 hover:text-3xl duration-200 rounded-full border-[2px]" />
+                <SiExpress className="text-2xl hover:scale-110 duration-200 hover:text-3xl rounded-full border-[2px]" />
+                <DiMongodb className="text-2xl hover:scale-110 duration-200 hover:text-3xl rounded-full border-[2px]" />
+                <SiOpencv className="text-2xl hover:scale-110 duration-200 hover:text-3xl rounded-full border-[2px]" />
               </div>
             </div>
           </div>
