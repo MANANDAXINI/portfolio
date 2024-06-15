@@ -20,7 +20,7 @@ function Home() {
             <h1 className="text-gray-800"> <strong>A passionate</strong></h1>{" "}
             <ReactTyped
               className="text-red-700 font-bold px-1"
-              strings={["Developer", "Programmer", "Coder", "Forex Trader"]}
+              strings={["Developer", "Programmer", "Coder"]}
               typeSpeed={50}
               backSpeed={60}
               loop={true}
